@@ -1,3 +1,4 @@
-Binary classification → Sigmoid
-
-Multi-class classification → Softmax
+Sigmoid -> Binary classification
+Softmax -> Multi-class classification
+Relu -> hidden
+Tanh -> CNN 
