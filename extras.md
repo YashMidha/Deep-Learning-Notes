@@ -1,0 +1,3 @@
+Binary classification → Sigmoid
+
+Multi-class classification → Softmax
